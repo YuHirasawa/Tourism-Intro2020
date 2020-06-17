@@ -1,7 +1,7 @@
 ## 観光学概論I 第6回の課題資料配布ページ
 
 1. 授業動画を閲覧しなさい。
-2. 課題のWordファイルを上にある<span style="color: red;">第6回課題</span>をクリックしてダウンロードしなさい。
+2. 課題のWordファイルを上にある<font color="red"> 第6回課題 </font>をクリックしてダウンロードしなさい。
 3. 課題が完了したらこの[文字をクリック](https://drive.google.com/drive/folders/1vrwB64MDueSJj5ieD4FmDVzRjPgytmFc?usp=sharing)して、共有フォルダに移動しなさい。
 4. 共有フォルダが開けたら、そこに完了した課題のWordファイルをドロップしなさい。
 
